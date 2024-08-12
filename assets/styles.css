@@ -1,0 +1,147 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    overflow: auto;
+}
+
+.lateral {
+    width: 45vh;
+    height: 100vh;
+    float: left;
+    background-color: darkslateblue;
+}
+
+.sobre {
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.1cap;
+}
+
+.conhecimentos {
+    margin-top: 2%;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.1cap;
+}
+
+.objetivos {
+    margin-top: 2%;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.1cap;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fotoperfil {
+    width: 200px;
+    height: 200px;
+    border:8px solid rgb(113, 108, 146);
+    border-radius: 150px;
+    position: sticky;
+    margin-left: 100px;
+    margin-top: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    margin-top: 300px;
+    float: left;
+    margin-left: 60px;
+}
+
+.sobrenome {
+    font-size: 50px;
+    color: darkslateblue;
+    margin: 0;
+    padding: 0;
+}
+
+.endereço {
+    font-size: 20px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    margin-top: 370px;
+    float: left;
+    margin-left: 470px;
+    letter-spacing: 0cap;
+    position: absolute;
+}
+
+.email {
+    font-size: 20px;
+    color: darkslateblue;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 0.05cap; 
+}
+
+.quemsoueu {
+    font-size: 20px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    margin-top: 90px;
+    float: left;
+    margin-left: 60px;
+}
+
+.icones {
+    margin-top: 610px;
+    
+}
+
+.icones a {
+    margin-right: 30px;
+}
+
+.instagram {
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+}
+
+.github {
+    width: 50px;
+    height: 50px;
+}
+
+.whatsapp {
+    width: 50px;
+    height: 50px;
+}
+
+.linkedin {
+    width: 50px;
+    height: 50px;
+}
+
+ol {
+    float: left;
+    margin-top: 390px;
+    position: absolute;
+    margin-left: 420px;
+    list-style-type:upper-alpha;
+}
+
+li {
+    margin-left: 60px;
+    line-height: 40px;
+}
+
+ul {
+    float: left;
+    margin-top: 390px;
+    position: absolute;
+    margin-left: 420px;
+}
